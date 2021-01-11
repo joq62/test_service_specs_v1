@@ -1,0 +1,4 @@
+[db_service_def,"calc_100.service_spec",
+	"calc","1.0.0",
+	{application,start,[calc]},
+	"https://github.com/joq62/calc_app_spec.git"].

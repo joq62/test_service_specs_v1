@@ -1,0 +1,4 @@
+[db_service_def,"divi_100.service_spec",
+	"divi_service","1.0.0",
+	{application,start,[divi_service]},
+	"https://github.com/joq62/divi_service.git"].

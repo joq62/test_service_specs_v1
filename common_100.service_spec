@@ -1,0 +1,4 @@
+[db_service_def,"common_100.service_spec",
+	"common","1.0.0",
+	{application,start,[common]},
+	"https://github.com/joq62/common.git"].

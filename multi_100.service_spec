@@ -1,0 +1,4 @@
+[db_service_def,"multi_100.service_spec",
+	"multi_service","1.0.0",
+	{application,start,[multi_service]},
+	"https://github.com/joq62/multi_service.git"].

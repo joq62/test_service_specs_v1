@@ -1,0 +1,4 @@
+[db_service_def,"dbase_100.service_spec",
+	"dbase","1.0.0",
+	{application,start,[dbase]},
+	"https://github.com/joq62/dbase.git"].

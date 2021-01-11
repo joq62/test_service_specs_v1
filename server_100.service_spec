@@ -1,0 +1,4 @@
+[db_service_def,"server_100.service_spec",
+	"server","1.0.0",
+	{application,start,[server]},
+	"https://joq62:20Qazxsw20@github.com/joq62/server.git"].

@@ -1,0 +1,4 @@
+[db_service_def,"master_100.service_spec",
+	"master","1.0.0",
+	{ application,start,[master]},
+	"https://github.com/joq62/master.git"].

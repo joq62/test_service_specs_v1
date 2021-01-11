@@ -1,0 +1,4 @@
+[db_service_def,"adder_100.service_spec",
+	"adder_service","1.0.0",
+	{application,start,[adder_service]},
+	"https://github.com/joq62/adder_service.git"].
